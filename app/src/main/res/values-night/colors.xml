@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="icon_light">#FFFFFF</color>
+    <color name="icon_dark">#000000</color>
+
+    <color name="gold">#FFD700</color>
+    <color name="accent">#FF5252</color>
+
+    <!-- Mode sombre -->
+    <color name="background_color">#121212</color> <!-- Gris très foncé -->
+    <color name="surface_color">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CCCCCC</color>
+    <color name="icon_tint">#FFFFFF</color>
+    <color name="button_bg">#FFD700</color>
+    <color name="button_text">#000000</color>
+
+    <color name="background_main">#333333</color> <!-- arrière-plan général -->
+    <color name="card_background">#1E1E1E</color> <!-- couleur des cards -->
+</resources>

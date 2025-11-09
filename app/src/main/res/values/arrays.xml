@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Array pour EditProfileActivity -->
+    <string-array name="array">
+        <item>Permis A (Moto)</item>
+        <item>Permis A1 (Moto légère)</item>
+        <item>Permis B (Voiture)</item>
+        <item>Permis C (Camion)</item>
+        <item>Permis D (Bus)</item>
+        <item>Permis E (Remorque)</item>
+    </string-array>
+</resources>

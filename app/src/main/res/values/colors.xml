@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ========== NOUVELLES COULEURS ADAPTATIVES ========== -->
+
+    <!-- Couleurs principales -->
+    <color name="primary">#1A1A1A</color>
+    <color name="primary_light">#FFFFFF</color>
+    <color name="secondary">#FFD700</color>
+    <color name="accent">#FF6B6B</color>
+
+    <!-- Backgrounds -->
+    <color name="background_dark">#121212</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="card_dark">#2A2A2A</color>
+    <color name="card_light">#FFFFFF</color>
+
+    <!-- Texte -->
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_primary_light">#1A1A1A</color>
+    <color name="text_secondary_dark">#C0C0C0</color>
+    <color name="text_secondary_light">#666666</color>
+
+    <!-- Gold Premium -->
+    <color name="gold">#FFD700</color>
+    <color name="gold_dark">#B8860B</color>
+    <color name="gold_light">#FFF8DC</color>
+    <color name="goldLuxury">#FFD700</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#D32F2F</color>
+    <color name="warning">#FFA726</color>
+    <color name="info">#29B6F6</color>
+
+    <!-- Dividers -->
+    <color name="divider_dark">#333333</color>
+    <color name="divider_light">#E0E0E0</color>
+
+    <!-- Overlays -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#80FFFFFF</color>
+
+    <!-- ========== ANCIENNES COULEURS (Compatibilité) ========== -->
+
+    <color name="grisSombre">#1E1E1E</color>
+    <color name="grisClair">#F5F5F5</color>
+    <color name="rouge">#FF6B6B</color>
+    <color name="jauneTaxi">#FFD700</color>
+    <color name="darkLuxury">#1A1A1A</color>
+    <color name="darkLuxuryLight">#2A2A2A</color>
+    <color name="silverLuxury">#C0C0C0</color>
+
+    <!-- ========== COULEURS DE BASE ========== -->
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- ========== COULEURS MATERIAL DESIGN ========== -->
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black_overlay">#66000000</color>
+
+    <!-- ========== COULEURS SUPPLÉMENTAIRES ========== -->
+
+    <!-- Nuances de gris -->
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+
+    <!-- Nuances de jaune/or -->
+    <color name="yellow_50">#FFFDE7</color>
+    <color name="yellow_100">#FFF9C4</color>
+    <color name="yellow_200">#FFF59D</color>
+    <color name="yellow_300">#FFF176</color>
+    <color name="yellow_400">#FFEE58</color>
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="yellow_600">#FDD835</color>
+    <color name="yellow_700">#FBC02D</color>
+    <color name="yellow_800">#F9A825</color>
+    <color name="yellow_900">#F57F17</color>
+
+    <!-- Nuances de rouge -->
+    <color name="red_50">#FFEBEE</color>
+    <color name="red_100">#FFCDD2</color>
+    <color name="red_200">#EF9A9A</color>
+    <color name="red_300">#E57373</color>
+    <color name="red_400">#EF5350</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_600">#E53935</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="red_800">#C62828</color>
+    <color name="red_900">#B71C1C</color>
+
+    <!-- Nuances de vert -->
+    <color name="green_50">#E8F5E9</color>
+    <color name="green_100">#C8E6C9</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="green_300">#81C784</color>
+    <color name="green_400">#66BB6A</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_600">#43A047</color>
+    <color name="green_700">#388E3C</color>
+    <color name="green_800">#2E7D32</color>
+    <color name="green_900">#1B5E20</color>
+
+    <!-- Nuances de bleu -->
+    <color name="blue_50">#E3F2FD</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_600">#1E88E5</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="blue_800">#1565C0</color>
+    <color name="blue_900">#0D47A1</color>
+
+    <!-- Couleurs d'état supplémentaires -->
+    <color name="success_light">#81C784</color>
+    <color name="success_dark">#2E7D32</color>
+    <color name="error_light">#E57373</color>
+    <color name="error_dark">#C62828</color>
+    <color name="warning_light">#FFB74D</color>
+    <color name="warning_dark">#F57C00</color>
+    <color name="info_light">#4FC3F7</color>
+    <color name="info_dark">#0277BD</color>
+
+    <!-- Couleurs de transparence -->
+    <color name="black_alpha_10">#1A000000</color>
+    <color name="black_alpha_20">#33000000</color>
+    <color name="black_alpha_30">#4D000000</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="black_alpha_50">#80000000</color>
+    <color name="black_alpha_60">#99000000</color>
+    <color name="black_alpha_70">#B3000000</color>
+    <color name="black_alpha_80">#CC000000</color>
+    <color name="black_alpha_90">#E6000000</color>
+
+    <color name="white_alpha_10">#1AFFFFFF</color>
+    <color name="white_alpha_20">#33FFFFFF</color>
+    <color name="white_alpha_30">#4DFFFFFF</color>
+    <color name="white_alpha_40">#66FFFFFF</color>
+    <color name="white_alpha_50">#80FFFFFF</color>
+    <color name="white_alpha_60">#99FFFFFF</color>
+    <color name="white_alpha_70">#B3FFFFFF</color>
+    <color name="white_alpha_80">#CCFFFFFF</color>
+    <color name="white_alpha_90">#E6FFFFFF</color>
+
+    <color name="icon_light">#000000</color> <!-- Icônes noires pour light mode -->
+    <color name="icon_dark">#FFFFFF</color> <!-- Icônes blanches pour dark mode -->
+
+    <color name="background_color">#FFF9E6</color> <!-- Jaune clair -->
+    <color name="surface_color">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#333333</color>
+    <color name="icon_tint">#000000</color>
+    <color name="button_bg">#FFD700</color>
+    <color name="button_text">#000000</color>
+
+    <color name="background_main">#FFF9E6</color> <!-- arrière-plan général -->
+    <color name="card_background">#FFFFFF</color> <!-- couleur des cards -->
+
+
+
+</resources>

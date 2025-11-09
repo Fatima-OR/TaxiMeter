@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaxiM</string>
+
+    <!-- Authentication -->
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="name">الاسم الكامل</string>
+    <string name="age">العمر</string>
+    <string name="email_address">عنوان البريد الإلكتروني</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="license_type">نوع رخصة القيادة</string>
+    <string name="not_member">ليس لديك حساب؟</string>
+    <string name="join_premium">انضم إلى الخدمة المميزة</string>
+    <string name="already_member">لديك حساب؟ تسجيل الدخول</string>
+    <string name="connect">تسجيل الدخول</string>
+    <string name="register">التسجيل</string>
+    <string name="certified_service">خدمة مميزة معتمدة</string>
+    <string name="premium_service">خدمة مميزة</string>
+    <string name="taximeter_title">عداد الأجرة</string>
+
+    <!-- Navigation -->
+    <string name="tab_counter">العداد</string>
+    <string name="tab_map">الخريطة</string>
+    <string name="tab_profile">الملف الشخصي</string>
+    <string name="taxi_vip">TaxiM</string>
+
+    <!-- Menu -->
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="translate">ترجمة</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="taxi_logo">شعار سيارة الأجرة</string>
+
+    <!-- User Profile -->
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="fill_all_fields">يرجى ملء جميع الحقول</string>
+    <string name="profile_updated">تم تحديث الملف الشخصي بنجاح</string>
+    <string name="default_user_name">المستخدم</string>
+    <string name="years_old">سنة</string>
+    <string name="premium_member">عضو مميز</string>
+    <string name="modify_profile">تعديل الملف الشخصي</string>
+    <string name="courses">الرحلات</string>
+    <string name="rating">التقييم</string>
+    <string name="years">السنوات</string>
+    <string name="driver_name">الاسم الكامل</string>
+    <string name="license">الرخصة</string>
+    <string name="identification_code">رمز التعريف</string>
+    <string name="scan_to_verify">امسح للتحقق من الهوية</string>
+    <string name="driver_photo">صورة السائق</string>
+    <string name="verified_badge">شارة التحقق</string>
+
+    <!-- Meter -->
+    <string name="start">ابدأ</string>
+    <string name="stop">توقف</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="resume">استئناف</string>
+    <string name="time">الوقت</string>
+    <string name="total">المجموع</string>
+    <string name="meter_running">العداد يعمل</string>
+    <string name="meter_running_message">عداد الأجرة نشط</string>
+    <string name="course_finished">انتهت الرحلة</string>
+    <string name="course_summary">المسافة: %1$s كم • الوقت: %2$s • الإجمالي: %3$s درهم</string>
+    <string name="tap_to_view">انقر لعرض التفاصيل</string>
+    <string name="minutes_short">دقيقة</string>
+    <string name="kilometers">كيلومترات</string>
+    <string name="dhs">درهم</string>
+    <string name="course_started">بدأت الرحلة</string>
+    <string name="course_stopped">انتهت الرحلة</string>
+    <string name="course_resumed">تم استئناف الرحلة</string>
+    <string name="meter_reset">تمت إعادة تعيين العداد</string>
+    <string name="permissions_required">الأذونات مطلوبة لتشغيل العداد</string>
+    <string name="star_icon">نجمة</string>
+    <string name="verified_icon">تم التحقق</string>
+    <string name="qr_code">رمز الاستجابة السريعة</string>
+
+    <!-- Language -->
+    <string name="choose_language">اختر اللغة</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_arabic">العربية</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+    <string name="language_changed">تم تغيير اللغة</string>
+
+    <!-- Logout -->
+    <string name="logout_message">هل أنت متأكد من تسجيل الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="logout_success">تم تسجيل الخروج بنجاح</string>
+
+    <!-- License Types -->
+    <string-array name="license_types">
+        <item>رخصة A (دراجة نارية)</item>
+        <item>رخصة A1 (دراجة نارية خفيفة)</item>
+        <item>رخصة B (سيارة)</item>
+        <item>رخصة C (شاحنة)</item>
+        <item>رخصة D (حافلة)</item>
+        <item>رخصة E (مقطورة)</item>
+    </string-array>
+
+    <!-- Additional UI Elements -->
+    <string name="logo_taxi">شعار سيارة الأجرة</string>
+    <string name="full_name_hint">الاسم الكامل</string>
+    <string name="age_hint">العمر</string>
+    <string name="license_type_hint">نوع الرخصة</string>
+
+    <!-- Default values -->
+    <string name="default_time">00:00</string>
+    <string name="default_distance">00.00</string>
+    <string name="default_price">00.00</string>
+    <string name="default_age">24 سنة</string>
+    <string name="default_license">رخصة B</string>
+    <string name="default_courses">152</string>
+    <string name="default_rating">4.9</string>
+    <string name="default_years">5</string>
+</resources>

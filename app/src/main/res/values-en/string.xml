@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaxiM</string>
+
+    <!-- Authentication -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="license_type">License Type</string>
+    <string name="not_member">Not a member yet?</string>
+    <string name="join_premium">Join Premium Service</string>
+    <string name="already_member">Already a member? Sign in</string>
+    <string name="connect">SIGN IN</string>
+    <string name="register">SIGN UP</string>
+    <string name="certified_service">Certified Premium Service</string>
+    <string name="premium_service">Premium Service</string>
+    <string name="taximeter_title">TAXIM</string>
+
+    <!-- Navigation -->
+    <string name="tab_counter">Counter</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_profile">Profile</string>
+    <string name="taxi_vip">TaxiM</string>
+
+    <!-- Menu -->
+    <string name="dark_mode">Dark Mode</string>
+    <string name="translate">Translate</string>
+    <string name="logout">Logout</string>
+    <string name="taxi_logo">Taxi Logo</string>
+
+    <!-- User Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="profile_updated">Profile updated successfully</string>
+    <string name="default_user_name">User</string>
+    <string name="years_old">years</string>
+    <string name="premium_member">PREMIUM MEMBER</string>
+    <string name="modify_profile">EDIT PROFILE</string>
+    <string name="courses">Trips</string>
+    <string name="rating">Rating</string>
+    <string name="years">Years</string>
+    <string name="driver_name">Full Name</string>
+    <string name="license">License</string>
+    <string name="identification_code">IDENTIFICATION CODE</string>
+    <string name="scan_to_verify">Scan to verify identity</string>
+    <string name="driver_photo">Driver Photo</string>
+    <string name="verified_badge">Verified Badge</string>
+
+    <!-- Meter -->
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+    <string name="resume">RESUME</string>
+    <string name="time">Time</string>
+    <string name="distance">Distance</string>
+    <string name="total">TOTAL</string>
+    <string name="meter_running">Meter Running</string>
+    <string name="meter_running_message">The taximeter is active</string>
+    <string name="course_finished">Trip finished</string>
+    <string name="course_summary">Distance: %1$s km • Time: %2$s • Total: %3$s Dhs</string>
+    <string name="tap_to_view">Tap to view details</string>
+    <string name="minutes_short">min</string>
+    <string name="kilometers">km</string>
+    <string name="dhs">Dhs</string>
+    <string name="course_started">Trip started</string>
+    <string name="course_stopped">Trip finished</string>
+    <string name="course_resumed">Trip resumed</string>
+    <string name="meter_reset">Meter reset</string>
+    <string name="permissions_required">Permissions required for meter operation</string>
+    <string name="star_icon">Star</string>
+    <string name="verified_icon">Verified</string>
+    <string name="qr_code">QR Code</string>
+
+    <!-- Language -->
+    <string name="choose_language">Choose Language</string>
+    <string name="lang_french">French</string>
+    <string name="lang_arabic">Arabic</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="language_changed">Language changed</string>
+
+    <!-- Logout -->
+    <string name="logout_message">Are you sure you want to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logout_success">Successfully logged out</string>
+
+    <!-- License Types -->
+    <string-array name="license_types">
+        <item>License A (Motorbike)</item>
+        <item>License A1 (Light Motorcycle)</item>
+        <item>License B (Car)</item>
+        <item>License C (Truck)</item>
+        <item>License D (Bus)</item>
+        <item>License E (Trailer)</item>
+    </string-array>
+
+    <!-- Additional UI Elements -->
+    <string name="logo_taxi">Taxi Logo</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="age_hint">Age</string>
+    <string name="license_type_hint">License Type</string>
+
+    <!-- Default values -->
+    <string name="default_time">00:00</string>
+    <string name="default_distance">00.00</string>
+    <string name="default_price">00.00</string>
+    <string name="default_age">24 years</string>
+    <string name="default_license">License B</string>
+    <string name="default_courses">152</string>
+    <string name="default_rating">4.9</string>
+    <string name="default_years">5</string>
+</resources>
